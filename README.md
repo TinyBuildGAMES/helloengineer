@@ -14,7 +14,7 @@ QUICK START:
         1)Go /helloengineer/Hello Engineer Alpha 1/
         2)Download HelloEngineerAlpha.zip
         3)Instal Hello_Engineer_Alpha.exe
-        !!!Windows 7,10 only!!!
+        !!!Windows 7/10 only!!!
 
 ![screenshot](screenshot_1.png)
 
