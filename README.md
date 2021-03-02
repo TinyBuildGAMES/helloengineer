@@ -2,7 +2,7 @@ Hello Engineer alpha 1.0
 =============================
 [![Build Status](https://github.com/yiisoft/yii/workflows/build/badge.svg)](https://github.com/yiisoft/yii/actions)
 
-![screenshot](screenshot_1.png)
+![screenshot](screenshot1.png)
 
  STATUS:
 -----------
@@ -35,7 +35,7 @@ BUG REPORTING:
         Please email to bugreporting@tiny-build.com   
 
 
-![screenshot](screenshot_2.png)
+![screenshot](screenshot2.png)
 
 Hello Engineer is a multiplayer machinery-building construction game set in the Hello Neighbor universe. Scavenge, craft and overcome challenges in the sandbox world of a mysterious amusement park. Put together incredible machines built of scrap, and beware of the Neighbor.
 
