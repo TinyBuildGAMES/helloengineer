@@ -16,7 +16,7 @@ Hello Engineer is a multiplayer machinery-building construction game set in the 
 
 PATCH 1.01: changelog
 ---------------------
-Hello everyone! Today we bring you Patch 1.1.5 and here are the changes:
+Hello everyone! Today we bring you Build 1.01 and here are the changes:
 
       • Added a new menu at the start. You can now restart acts or start a new game if you have save issues. You can also select acts.
       • Slight tweaks to the maps - level design, lighting, visual cues for puzzles
