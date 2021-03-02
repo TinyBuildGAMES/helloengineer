@@ -10,6 +10,7 @@ Hello Engineer alpha 1.0
 
 PATCH 1.01: changelog
 ---------------------
+Hello everyone! Today we bring you Patch 1.1.5 and here are the changes:
 
       • Added a new menu at the start. You can now restart acts or start a new game if you have save issues. You can also select acts.
       • Slight tweaks to the maps - level design, lighting, visual cues for puzzles
