@@ -33,6 +33,7 @@ BUG REPORTING:
         Please email to bugreporting@tiny-build.com   
 
 ![screenshot](screenshot_1.png)
+![screenshot](1.png)
 
 Hello Engineer is a multiplayer machinery-building construction game set in the Hello Neighbor universe. Scavenge, craft and overcome challenges in the sandbox world of a mysterious amusement park. Put together incredible machines built of scrap, and beware of the Neighbor.
 
