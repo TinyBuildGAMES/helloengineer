@@ -4,11 +4,15 @@ Hello Engineer alpha 1.0
 
 ![screenshot](screenshot1.png)
 
+Hello Engineer is a multiplayer machinery-building construction game set in the Hello Neighbor universe. Scavenge, craft and overcome challenges in the sandbox world of a mysterious amusement park. Put together incredible machines built of scrap, and beware of the Neighbor.
+
+
  STATUS:
 -----------
 
       • 25.02 start cloused alpha build 1.0 
       • 02.03 update alpha build 1.01
+
 
 PATCH 1.01: changelog
 ---------------------
@@ -20,6 +24,7 @@ Hello everyone! Today we bring you Patch 1.1.5 and here are the changes:
       • Fixed a problem where static shadows wouldn't appear for trees
       • Improved overall performance and stability
       • Optimized the lighting
+
 
 QUICK START:
 -----------
@@ -36,8 +41,6 @@ BUG REPORTING:
 
 
 ![screenshot](screenshot2.png)
-
-Hello Engineer is a multiplayer machinery-building construction game set in the Hello Neighbor universe. Scavenge, craft and overcome challenges in the sandbox world of a mysterious amusement park. Put together incredible machines built of scrap, and beware of the Neighbor.
 
 © 2021 tinyBuild LLC
 Hello Engineer | Video Game
