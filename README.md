@@ -25,6 +25,7 @@ Hello everyone! Today we bring you Patch 1.1.5 and here are the changes:
       • Improved overall performance and stability
       • Optimized the lighting
 
+Update on rare Fatal Error on start. We're working on a solution. Good news though is that you can now run as administrator.
 
 QUICK START:
 -----------
