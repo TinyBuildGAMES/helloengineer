@@ -5,9 +5,18 @@ Hello Engineer alpha 1.0
  STATUS:
 -----------
 
-        25.02 start cloused alpha 1.0 test
-        02.03 update alpha 1.01
+      • 25.02 start cloused alpha build 1.0 
+      • 02.03 update alpha build 1.01
 
+PATCH 1.01: changelog
+---------------------
+
+      • Added a new menu at the start. You can now restart acts or start a new game if you have save issues. You can also select acts.
+      • Slight tweaks to the maps - level design, lighting, visual cues for puzzles
+      • Steam achievements are now working correctly
+      • Fixed a problem where static shadows wouldn't appear for trees
+      • Improved overall performance and stability
+      • Optimized the lighting
 
 QUICK START:
 -----------
@@ -16,6 +25,11 @@ QUICK START:
         2)Download HelloEngineerAlpha.zip
         3)Instal Hello_Engineer_Alpha.exe
         !!!Windows 7/10 only!!!
+        
+        
+BUG REPORTING:
+--------------
+        Please email to bugreporting@tiny-build.com   
 
 ![screenshot](screenshot_1.png)
 
