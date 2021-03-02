@@ -5,7 +5,8 @@ Hello Engineer alpha 1.0
  STATUS:
 -----------
 
-        25.02 start cloused alpha 1.0
+        25.02 start cloused alpha 1.0 test
+        02.03 update alpha 1.01
 
 
 QUICK START:
