@@ -1,6 +1,5 @@
 Hello Engineer alpha 1.0.1
 =============================
-[![Build Status](https://github.com/yiisoft/yii/workflows/build/badge.svg)](https://github.com/yiisoft/yii/actions)
 
 ![screenshot](screenshot1.png)
 
@@ -33,6 +32,7 @@ OpenGL 2.0-capable system
 
  STATUS:
 -----------
+[![Build Status](https://github.com/yiisoft/yii/workflows/build/badge.svg)](https://github.com/yiisoft/yii/actions)
 
       • 25.02 start cloused alpha build 1.0.0 
       • 02.03 update alpha build 1.0.1
