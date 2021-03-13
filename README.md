@@ -14,7 +14,7 @@ Hello Engineer alpha 1.0.1
 <img src="https://img.shields.io/github/stars/silent-lad/VueSolitaire.svg?style=flat">
 <img src="https://img.shields.io/github/languages/top/silent-lad/VueSolitaire.svg">
 <img src="https://img.shields.io/github/issues/silent-lad/VueSolitaire.svg">
-<h1 align="center"><a  href="https://www.dropbox.com/s/9cwzb2h0t5h2oep/HelloEngineerAlpha1.0.1.zip?dl=1">DOWNLOAD</a></h1>
+<h1 align="center"><a  href="https://www.dropbox.com/s/9cwzb2h0t5h2oep/HelloEngineerAlpha1.0.1.zip?dl=1"  onclick="window.open('https://www.helloengineer.com/')">DOWNLOAD</a></h1>
 
 <h2 align="left">Description</h2>
 <h1 align="left">System Requirements</h1>
